@@ -1,0 +1,25 @@
+Hepatitis Diagnostic System
+
+This is a Hepatitis Diagnostic System designed for the diagnosis of Hepatitis B 
+
+It works with a database which is included in the database folder with the name
+myproject.sql
+
+1. Login
+	username : cs414
+	passwork : 123
+
+2. Patient
+	You can:
+   add a new patient record
+   update an existing patient's record and
+   delete an existing patient's record from the database
+
+3. Diagnose
+	You can diagnose a registered patient for Hepatitis B Virus
+   If patient's status is negative then terminate diagnosis else
+   Geneerate the severity of the disease either mild, moderate or severe.
+
+4. Logout
+	Allows you lo out of the system.
+   
