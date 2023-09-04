@@ -6,8 +6,7 @@ It works with a database which is included in the database folder with the name
 myproject.sql
 
 1. Login
-	username : cs414
-	passwork : 123
+	username : cs414/1234567890
 
 2. Patient
 	You can:
